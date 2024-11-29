@@ -1,0 +1,27 @@
+执行结果: 172.25.202.32
+uid=1000(guozhi) gid=0(root) groups=0(root),4(adm),20(dialout),24(cdrom),25(floppy),27(sudo),29(audio),30(dip),44(video),46(plugdev),118(netdev),120(docker)
+
+=====================================
+执行结果: 172.25.202.32
+uid=1000(guozhi) gid=0(root) groups=0(root),4(adm),20(dialout),24(cdrom),25(floppy),27(sudo),29(audio),30(dip),44(video),46(plugdev),118(netdev),120(docker)
+
+=====================================
+执行结果: 172.25.202.32
+uid=1000(guozhi) gid=0(root) groups=0(root),4(adm),20(dialout),24(cdrom),25(floppy),27(sudo),29(audio),30(dip),44(video),46(plugdev),118(netdev),120(docker)
+
+=====================================
+执行结果: 172.25.202.32
+uid=1000(guozhi) gid=0(root) groups=0(root),4(adm),20(dialout),24(cdrom),25(floppy),27(sudo),29(audio),30(dip),44(video),46(plugdev),118(netdev),120(docker)
+
+=====================================
+执行结果: 172.25.202.12
+链接失败
+=====================================
+执行结果: 172.25.202.32
+uid=1000(guozhi) gid=0(root) groups=0(root),4(adm),20(dialout),24(cdrom),25(floppy),27(sudo),29(audio),30(dip),44(video),46(plugdev),118(netdev),120(docker)
+
+=====================================
+执行结果: 172.25.202.32
+uid=1000(guozhi) gid=0(root) groups=0(root),4(adm),20(dialout),24(cdrom),25(floppy),27(sudo),29(audio),30(dip),44(video),46(plugdev),118(netdev),120(docker)
+
+=====================================

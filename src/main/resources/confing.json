@@ -1,0 +1,13 @@
+{
+  "sites": {
+    "site": [
+      {
+        "id": "1",
+        "name": "guozhi",
+        "passwd": "root",
+        "host": "172.25.202.32",
+        "port": 22
+
+    ]
+  }
+}

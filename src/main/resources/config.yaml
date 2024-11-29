@@ -1,0 +1,21 @@
+hosts:
+  - host: 172.25.202.32
+    user: guozhi
+    port: 22
+    passwd: root
+    name: server1
+
+  - host: 10.10.10.2
+    user: root
+    port: 22
+    name: server2
+
+  - host: 10.10.10.3
+    user: admin
+    port: 2222
+    name: server3
+
+  - host: 10.10.10.4
+    user: root
+    port: 22
+    name: server4
